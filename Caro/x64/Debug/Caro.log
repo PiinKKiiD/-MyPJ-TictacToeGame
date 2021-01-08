@@ -1,0 +1,10 @@
+﻿  PlayMode.cpp
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(178): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(326): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(407): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(447): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(571): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\asus\downloads\lung_tung\projectcaro_nthau_apcs3\18apcs3_group07\playmode.cpp(611): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Caro.vcxproj -> C:\Users\Asus\Downloads\Lung_tung\ProjectCaro_ntHau_Apcs3\18APCS3_Group07\x64\Debug\Caro.exe
